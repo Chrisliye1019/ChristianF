@@ -2,6 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <a href="https://github.com/ChristianEDF/Cisco-Packet-Tracer">Cisco Packet Tracer</a>
+- [Home Network security assessment/Bootcamp project beginner](https://youtu.be/whDMzuN8XE0)
 
 <h2>Certifications</h2>
 
