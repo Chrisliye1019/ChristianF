@@ -24,3 +24,8 @@
 - Cybersecurity Certification [Cybersecurity.pdf](https://github.com/user-attachments/files/16745676/Cybersecurity.pdf)
 - Security + [CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/16745686/CompTIA.Security%2B.ce.certificate.pdf)
 - Microsoft Azure Fundamentals https://learn.microsoft.com/api/credentials/share/en-us/Christian-1688/D672700A6ED110D4?sharingId=116745FA4A5E0316
+
+<a href="https://www.linkedin.com/in/christianericfrancois" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+</a>
+
