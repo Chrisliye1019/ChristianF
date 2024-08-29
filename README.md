@@ -1,5 +1,18 @@
 <h1>Hi, I'm Christian
+
+  
+  I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybersecurity-007ACC?&style=for-the-badge&logo=Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-007ACC?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+
+
+
+  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
 
 - <a href="https://github.com/ChristianEDF/Cisco-Packet-Tracer">Cisco Packet Tracer</a>
 - <a href="https://github.com/ChristianEDF/Microsoft-Sentinel">Microsoft Sentinel(SIEM)</a>
